@@ -1,1 +1,1 @@
-# Juego del Ahorcado hecho con HTML, CSS (Bootstrap) y JavaScript 
+# Juego del Blackjack hecho con HTML, CSS (Bootstrap) y JavaScript 
